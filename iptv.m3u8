@@ -11,3 +11,15 @@ https://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=5cab9e811721296983
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042230403.jpg",广州电视台综合频道
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=aae0358e06f64d4db4d663321a3fa964&txTime=190def4db74
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042346693.jpg",广州电视台影视频道
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=88ad17e0518f41980b392744d8ecbfc7&txTime=190def6e358
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042622928.jpg",广州电视台新闻频道
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=c651b79c107d9cde3914d011cbb896a6&txTime=190def3c97d
+#EXTINF:-1 group-title="广东台" tvg-id="广州竞赛频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042736661.jpg",广州竞赛频道
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=949bbf3de9ca122335c90faa3739d915&txTime=190dec11929
+#EXTINF:-1 group-title="广东台" tvg-id="广州电视台法治频道" tvg-logo="http://tv.haoqu99.com/d/file/2019/1115/small2dc32ee498f65382d2fb9dab733c4c47.jpg",广州电视台法治频道
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=9156d0870a3d59c7ce8d13e88f1c7ddf&txTime=190de8f0b5f
+#EXTINF:-1 group-title="广东台" tvg-id="广州南国都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0608/small8794c1380bce42c709e47badc86e6c9c1591592752.jpg",广州南国都市频道
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=e9b64dccdc73bf944ac3722611afeba6&txTime=190dec06524
