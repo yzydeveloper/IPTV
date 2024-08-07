@@ -23,3 +23,5 @@ https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=949bbf3de9ca122335c90faa
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=9156d0870a3d59c7ce8d13e88f1c7ddf&txTime=190de8f0b5f
 #EXTINF:-1 group-title="广东台" tvg-id="广州南国都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0608/small8794c1380bce42c709e47badc86e6c9c1591592752.jpg",广州南国都市频道
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=e9b64dccdc73bf944ac3722611afeba6&txTime=190dec06524
+#EXTINF:-1 group-title="CGTN" tvg-id="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
