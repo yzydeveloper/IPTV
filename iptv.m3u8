@@ -3,6 +3,10 @@
 https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
 https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-id="IPTV-少儿" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png",IPTV-少儿
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
+#EXTINF:-1 group-title="IPTV" tvg-id="IPTV-少儿2" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png",IPTV-少儿2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
 #EXTINF:-1 group-title="卫视台" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
 https://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=5cab9e811721296983
 #EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
