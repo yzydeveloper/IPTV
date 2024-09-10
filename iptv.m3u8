@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
 https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-#EXTINF:-1 group-title="IPTV" tvg-id="IPTV-少儿" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png",IPTV-少儿
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
-#EXTINF:-1 group-title="IPTV" tvg-id="IPTV-少儿2" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png",IPTV-少儿2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
 #EXTINF:-1 group-title="卫视台" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-id="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-id="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
@@ -25,6 +19,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-id="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="卫视台" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-id="IPTV-少儿" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png",IPTV-少儿
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
+#EXTINF:-1 group-title="IPTV" tvg-id="IPTV-少儿2" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png",IPTV-少儿2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
 #EXTINF:-1 tvg-id=电影_星爷 tvg-logo=https://live.fanmingming.com/tv/影迷电影.png group-title=轮播,电影_星爷
 https://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 tvg-id=电影_英叔 tvg-logo=https://live.fanmingming.com/tv/影迷电影.png group-title=轮播,电影_英叔
